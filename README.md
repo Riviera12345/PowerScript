@@ -7,6 +7,6 @@
    - [ ] Administrator
 
 - [ ] Abuse-Tools Execution 
-	 - [ ] 
+	 - [ ] sigverif.exe
 	 - [ ]  
 	 - [ ]  
