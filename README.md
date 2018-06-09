@@ -10,3 +10,7 @@
 	 - [ ] sigverif.exe
 	 - [ ]  
 	 - [ ]  
+
+- [ ] Get-Started Hello-World.exe
+	 - [ ] Hello-World.exe
+	  - [ ]  
